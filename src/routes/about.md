@@ -3,7 +3,7 @@
 </script>
 
 <!-- TODO UPDATE THE SEO INFO -->
-<Seo title="About Paws" description="" path="/about" />
+<Seo title="About the author" description="" path="/about" />
 
 # Hi! 👋
 

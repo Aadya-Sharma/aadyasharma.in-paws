@@ -1,14 +1,15 @@
 export const variables = {
 	// URL where live site is deployed, used in sitemap, RSS feed
-	siteUrl: 'https://paws.codexfelis.dev',
+	siteUrl: 'https://aadyasharma.in',
 	// Used in page titles, helps with SEO
-	projectName: 'My Cool Project!',
+	projectName: 'Aadya Sharma',
 	// Brief website description, used in description fields in RSS, HTML head. Helps with SEO
-	siteDescription: 'My cool project is a project about stuff that does things.',
+	siteDescription:
+		'I am an avid writer and an aspiring photographer and journalist, currently studying Journalism and Mass Communication at GD Goenka University.',
 	// The twitter username for you/project/department
-	twitter: 'codexfelis',
+	twitter: 'aadyasharma29',
 	// Whatever GitHub you want to link to in the footer
-	github: 'https://github.com/codexfelis/paws-template',
+	github: '',
 	// URL segment for the content you update regularly
 	// If you change this, you also need to change the file/folder names
 	contentPath: 'blog'

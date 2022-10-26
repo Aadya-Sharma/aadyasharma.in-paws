@@ -33,7 +33,7 @@
 
 <Seo
 	title="{variables.projectName} blog"
-	description="A blog about a very cool project TODO update me!"
+	description="A personal blog which consists of views of an avid reader and a published writer whose core interests lie at the confluence of gender issues and mental health. The purpose of this blog is to bring to light social issues that are rarely spoken of."
 	path="/{variables.contentPath}"
 />
 

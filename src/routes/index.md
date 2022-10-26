@@ -25,7 +25,7 @@
 </script>
 
 <!-- TODO UPDATE THE SEO INFO -->
-<Seo title="Paws" description={variables.siteDescription} path="/" openGraphImage="OGExample.png"/>
+<Seo title="Aadya Sharma" description={variables.siteDescription} path="/" openGraphImage="OGExample.png"/>
 
 # Paws
 
@@ -61,9 +61,6 @@ While this template is still under development, these docs assume that you:
 - know how to edit HTML/JavaScript files on your computer (even if you don't fully
   understand what they mean)
 - are able to set up a working NodeJS environment on your computer.
-
-More comprehensive beginner documentation is coming soon, and if you get stuck feel free to [contact
-us](mailto:hi@codexfelis.dev) for help or [raise an issue in GitHub]({variables.github}/issues).
 
 <a class=emph href="/blog/initial-setup">
 Get started!
